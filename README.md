@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Avneeta Kaur
+- 🌱 I’m currently learning C++ and Front-End
+- 💞️ I’m looking for help with NodeJs and Data Structures
+- 💬 Ask me about C++ and Web Devlopment
+- 😄 Pronouns: She/Her
