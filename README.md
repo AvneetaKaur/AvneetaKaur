@@ -1,16 +1,13 @@
 ### Hi there 👋
-### Hey , I am DEDSEC 👋
+### Hey , I am Avneeta Kaur 👋
 
 
-
-
-- 🔭 I’m currently working on a Real Time App
 - 🌱 I’m currently learning ReactJS and NodeJS
-- 👯 I’m looking to collaborate on Youtube & LinkedIn
+- 👯 I’m looking to collaborate on LinkedIn
 - 🤔 I’m looking for help with NodeJS & Data Structures
 - 💬 Ask me about C++ and Web Development Stuff
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I listen very attentively to Football Interviews and Analytics
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I like to sketch
 
 
 ## 🚀 My Tech-Skills:
@@ -45,7 +42,11 @@
  </p>
 
  <br>
+    
+    
  🚀 My Github-stats:
+    
+    
     <br>
  <a href="https://github.com/AvneetaKaur">
  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AvneetaKaur&theme=maroongold&hide_border=true&include_all_commits=true&hide_title=true" />
