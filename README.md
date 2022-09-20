@@ -38,7 +38,7 @@
 <p align ="center">
 <a href="https://www.linkedin.com/in/avneeta-kaur/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" /> &nbsp; &nbsp;
 <a href="https://www.instagram.com/avneetakaur/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="40" /></a>&nbsp; &nbsp;
-<a href = "mailto:avneetakaur271202@gmail.com"><img align="center" src="https://img.icons8.com/color/50/000000/gmail-new.png" height="50" width="50" /><a>
+<a href = "https://mail.google.com/mail/u/0/#inbox"><img align="center" src="https://img.icons8.com/color/50/000000/gmail-new.png" height="50" width="50" /><a>
  </p>
 
  <br>
