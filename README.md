@@ -45,7 +45,8 @@
  </p>
 
  <br>
- ## 🚀 My Github-stats:
+ 🚀 My Github-stats:
+    <br>
  <a href="https://github.com/AvneetaKaur">
  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AvneetaKaur&theme=maroongold&hide_border=true&include_all_commits=true&hide_title=true" />
   <br>
