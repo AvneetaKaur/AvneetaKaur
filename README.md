@@ -1,12 +1,16 @@
 ### Hi there 👋
-### Hey , I am Avneeta Kaur👋
+### Hey , I am DEDSEC 👋
 
 
+
+
+- 🔭 I’m currently working on a Real Time App
 - 🌱 I’m currently learning ReactJS and NodeJS
 - 👯 I’m looking to collaborate on Youtube & LinkedIn
 - 🤔 I’m looking for help with NodeJS & Data Structures
 - 💬 Ask me about C++ and Web Development Stuff
-- 😄 Pronouns: She/Her
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I listen very attentively to Football Interviews and Analytics
 
 
 ## 🚀 My Tech-Skills:
@@ -35,16 +39,21 @@
 📫 How to connect with me :
 
 <p align ="center">
-<a href="https://www.linkedin.com/in/avneeta-kaur/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" /> &nbsp; &nbsp;
-<a href = "mailto:avneetakaur271202@gmail.com"><img align="center" src="https://img.icons8.com/color/50/000000/gmail-new.png" height="50" width="50" /><a>
+<a href="https://www.linkedin.com/in/aryandev-shourie-175025229/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" /> &nbsp; &nbsp;
+<a href="https://www.instagram.com/aryan_shourie/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="40" /></a>&nbsp; &nbsp;
+<a href="https://www.facebook.com/aryandev.shourie/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40" width="40" /></a>&nbsp; &nbsp;
+<a href = "mailto:shouriearyandev@gmail.com"><img align="center" src="https://img.icons8.com/color/50/000000/gmail-new.png" height="50" width="50" /><a>
  </p>
 
- <br>
-<a href="https://github.com/As
+ <br><
+ <a href="https://github.com/As
     <!--<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aryan2727-debug&show_icons=true&theme=maroongold " />-->
- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AvneetaKaur&theme=maroongold&hide_border=true&include_all_commits=true&hide_title=true" 
+ <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashish0209&theme=maroongold&hide_border=true&include_all_commits=true&hide_title=true" />
   <br>
   <br>
- <img   width="48%" height ="200px" left ="600px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvneetaKaur&layout=compact&theme=maroongold&hide_border=true&hide_title=true" />
+ <img   width="48%" height ="200px" left ="600px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish0209&layout=compact&theme=maroongold&hide_border=true&hide_title=true" />
 <br> <br>
 <img alt="Avneeta's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AvneetaKaur&theme=chartreuse-dark"></a>
+hish0209">be>   
+ 
+ ## 🚀 My Github Stats:
