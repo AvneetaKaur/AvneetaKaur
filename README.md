@@ -48,6 +48,3 @@
  <img   width="48%" height ="200px" left ="600px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvneetaKaur&layout=compact&theme=maroongold&hide_border=true&hide_title=true" />
 <br> <br>
 <img alt="Avneeta's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AvneetaKaur&theme=chartreuse-dark"></a>
-hish0209">be>   
- 
- ## 🚀 My Github Stats:
