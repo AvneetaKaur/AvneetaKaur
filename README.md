@@ -2,10 +2,9 @@
 ### Hey , I am Avneeta Kaur 👋
 
 
-- 🌱 I’m currently learning ReactJS and NodeJS
+- 🌱 I’m currently learning Full Stack
 - 👯 I’m looking to collaborate on LinkedIn
-- 🤔 I’m looking for help with NodeJS & Data Structures
-- 💬 Ask me about C++ and Web Development Stuff
+- 💬 Ask me about Java and Web Development Stuff
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I like to sketch
 
