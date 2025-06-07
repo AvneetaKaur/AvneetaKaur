@@ -1,56 +1,47 @@
-### Hi there 👋
-### Hey , I am Avneeta Kaur 👋
+👋 Hi there, I'm <b>Avneeta Kaur</b> <br>
+<i>I'm an Automation Tester with 2 years of hands-on experience in testing web and mobile applications. I specialize in building reliable and maintainable test automation frameworks and integrating them into CI/CD pipelines.</i>
 
-
-- 🌱 I’m currently learning Full Stack
-- 👯 I’m looking to collaborate on LinkedIn
-- 💬 Ask me about Java and Web Development Stuff
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I like to sketch
-
-
-## 🚀 My Tech-Skills:
-
-
-<p align ="center"> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img align="center"src="https://img.icons8.com/color/48/000000/html-5.png" height="60" width="60"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img align="center" src="https://img.icons8.com/color/48/000000/css3.png" height="60" width="60"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img align="center" src="https://img.icons8.com/color/48/000000/bootstrap.png" height="60" width="60"/> </a> 
-    <a href="https://www.javascript.com/" target="_blank"> <img align="center" src="https://img.icons8.com/color/48/000000/javascript--v1.png" height="60" width="60"/> </a>
-    <a href="https://www.geeksforgeeks.org/c-plus-plus/" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" height="60" width="60"/> </a>      
-    <!--<a href="https://developer.android.com/courses?gclid=CjwKCAjwj42UBhAAEiwACIhADk0N9MLGaC0W_NdDiaykR-vchQ9ggSoidXae_tqVRbGUVniFAibkpBoCp2UQAvD_BwE" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/android.png" height="60" width="60"/> </a> -->
-    <a href="https://github.com/" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/github--v3.png" height="60" width="60"/></a>
-    <a href="https://reactjs.org/" target="_blank"> <img align="center"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="60" width="60"/></a> 
-    <a href="https://code.visualstudio.com/" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" height="60" width="60"/></a> 
-  <a href="https://www.mysql.com/" target="_blank"> <img align="center"src="https://img.icons8.com/color/48/000000/mysql.png" height="60" width="60"/></a> 
-  <a href="https://www.linux.org/" target="_blank"> <img align="center"src="https://img.icons8.com/color/48/000000/linux.png" height="60" width="60"/></a> 
-    <a href="https://nodejs.org" target="_blank"> <img align="center" src="https://img.icons8.com/color/48/000000/nodejs.png" height="60" width="60"/> </a>
-    <a href="https://nodejs.org" target="_blank"> <img align="center" src="https://res.cloudinary.com/practicaldev/image/fetch/s--GEOe8aLy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/qgjn9fi1vff7thgbbecs.jpeg" height="60" width="110"/> </a>
-  
-</p>
 <br>
+<b>🔧 Tech Stack & Tools:<b>
+
+Languages & Frameworks: Java, TestNG, Maven
+
+Automation Tools: Selenium WebDriver, Appium
+
+API Testing: Postman, REST Assured
+
+CI/CD & Project Management: Jenkins, JIRA
+
+<br>
+<b>💡 What I Do:</b>
+
+Automate functional, regression, and REST API test cases
+
+Design and maintain test suites for web and mobile apps
+
+Integrate tests into continuous delivery pipelines
+
+Collaborate across QA and development teams for quality delivery
+
+<br>
+<b>🚀 Currently Exploring:</b>
+
+Core Java (backend concepts)
+
+Data structures & problem-solving (LeetCode)
+
+Clean code practices and scalable automation solutions
+
+📌 I believe in writing robust tests, catching bugs early, and continuously improving both product and process.
 
 
+<br>
+📫 Can connect on:
 
-📫 How to connect with me :
-
-<p align ="center">
-<a href="https://www.linkedin.com/in/avneeta-kaur/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" /> &nbsp; &nbsp;
-<a href="https://www.instagram.com/avneetakaur/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="40" /></a>&nbsp; &nbsp;
-<a href ="mailto:avneetakaur271202@gmail.com"><img align="center" src="https://img.icons8.com/color/50/000000/gmail-new.png" height="50" width="50" /><a>
+<p align ="left">
+<a href="https://www.linkedin.com/in/avneeta-kaur/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" /> &nbsp; &nbsp;&nbsp; &nbsp;
+<a href ="mailto:con.avneetakaur.com"><img align="center" src="https://img.icons8.com/color/50/000000/gmail-new.png" height="50" width="50" /><a>
  </p>
 
  <br>
-    
-    
- 🚀 My Github-stats:
-    
-
- <a href="https://github.com/AvneetaKaur">
- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AvneetaKaur&theme=maroongold&hide_border=true&include_all_commits=true&hide_title=true" />
-  <br>
-  <br>
- <img   width="48%" height ="200px" left ="600px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvneetaKaur&layout=compact&theme=maroongold&hide_border=true&hide_title=true" />
-<br> <br>
-
-<img alt="Avneeta's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AvneetaKaur&theme=chartreuse-dark"></a>
+ 
